@@ -2,12 +2,10 @@
 
 # **Hola, Soy [Facundo Juliá](https://github.com/FacundoJulia25)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="Hola">
 
-### Full stack engineer, apasionado de la tecnologia, explorando el vasto mundo del desarrollo<br>
+### Full stack developer, apasionado de la tecnologia, explorando el vasto mundo del desarrollo <br>
 ### Me gusta desafiarme constantemente para superarme dia a dia y superarme constantemente,  me interesa el desarrollo web, tanto Backend como front y ¿ por qué no? Ambos ! <br>
 
 ![langujes&tools](https://i.gifer.com/6ELl.gif)
-
-<br>
 
 ##  Quien soy?
 <br>
