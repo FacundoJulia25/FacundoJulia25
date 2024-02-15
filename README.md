@@ -3,7 +3,7 @@
 # **Hello!, I'm [Facundo Juliá](https://github.com/FacundoJulia25)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="Hola">
 
 ### Passionate about technology, exploring the vast world of development <br>
-### I like to constantly challenge myself to improve myself day by day and constantly improve myself,  I like to work in frontend, backend and also as a full stack developer<br>
+### I like to constantly challenge myself to improve day by day,  I like to work in frontend, backend and also as a full stack developer<br>
 
 ![langujes&tools](https://i.gifer.com/6ELl.gif)
 
