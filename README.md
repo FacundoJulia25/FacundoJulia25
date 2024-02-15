@@ -10,8 +10,10 @@
 ##  🔎 Who I am?
 
 
-### My name is Facundo Juliá, 22 years old, Argentine!. I'm a full stack web developer. Soy una persona con mucha confianza, curiosidad por lo desconocido y sobre todo tenacidad a la hora de enfrentar situaciones que involucren resolución de problemas.
-
+### My name is Facundo Juliá, 24 years old, Argentine!. I'm an xperienced Full Stack Developer with 6 months of hands-on experience in Front End Development 
+with certifications in web development. Proven good skills in Vue.js, Nuxt.js, HTML, CSS, and Tailwind CSS. Seeking a
+challenging role as a Junior Full Stack Software Developer where I can leverage my technical skills and contribute to
+innovative solutions while further expanding my knowledge across a wide range of technologies.
 <br>
 
 ## ⚙️ Tech skills:
